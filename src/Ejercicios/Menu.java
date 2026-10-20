@@ -151,7 +151,7 @@ public class Menu {
 		btnNewButton_2.setBounds(10, 331, 143, 30);
 		frmMenupracticas.getContentPane().add(btnNewButton_2);
 		
-		JButton btnNewButton_3 = new JButton("Practica 9");
+		JButton btnNewButton_3 = new JButton("prs 9");
 		btnNewButton_3.setIcon(new ImageIcon("C:\\Users\\Jose Alberto\\OneDrive\\Desktop\\Pocion.png"));
 		btnNewButton_3.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent e) {
